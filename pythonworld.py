@@ -1,0 +1,5 @@
+print('Hello World!')
+print(1+2)
+print(7*6)
+print(5/9)
+print(3-2)
